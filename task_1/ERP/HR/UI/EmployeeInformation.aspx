@@ -1,7 +1,7 @@
 ﻿
 
 
-<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="EmployeeInformation.aspx.cs" Inherits="HR.UI.EmployeeInformation" %>
+<%@ Page Language="C#"AutoEventWireup="true" CodeBehind="EmployeeInformation.aspx.cs" Inherits="HR.UI.EmployeeInformation" %>
 
 <!DOCTYPE html>
 
